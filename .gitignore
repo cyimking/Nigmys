@@ -44,3 +44,7 @@ Temporary Items
 
 #Unneeded Directories and files
 .gitignore
+Homer_MVC/bin/Homer_MVC.dll
+Homer_MVC/bin/Homer_MVC.pdb
+Homer_MVC/obj/Release/Homer_MVC.dll
+Homer_MVC/obj/Release/Homer_MVC.pdb
