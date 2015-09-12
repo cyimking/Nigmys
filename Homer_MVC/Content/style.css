@@ -3269,18 +3269,12 @@ ul.h-list li:hover a {
 .landing-page .navbar-default {
   background: #fff;
 }
-.landing-page .navbar .navbar-brand {
-  font-size: 12px;
-  height: auto;
-  margin-top: 8px;
-  padding: 9px 15px;
-  font-weight: 700;
-  border-radius: 5px;
-  color: #fff;
-  display: block;
-  background-color: #62cb31;
-  margin-left: 0;
+
+.landing-page .navbar .navbar-logo{
+    width: 145px;
+    height: 64px;
 }
+
 .landing-page .navbar-default .navbar-toggle:hover,
 .landing-page .navbar-default .navbar-toggle:focus {
   background: #62cb31;
