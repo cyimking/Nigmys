@@ -151,6 +151,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Content\img\green%402x.png" />
     <Content Include="Content\img\green.png" />
+    <Content Include="Content\landingStyle.css" />
     <Content Include="Content\style.css" />
     <Content Include="Icons\pe-icon-7-stroke\css\helper.css" />
     <Content Include="Icons\pe-icon-7-stroke\css\pe-icon-7-stroke.css" />
