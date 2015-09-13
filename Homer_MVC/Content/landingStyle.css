@@ -1,3 +1,12 @@
 ﻿.landing-page .container .row .col-lg-12 .center-title {
     text-align:center;
 }
+
+.landing-page .nigmys-play-button {
+    padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
