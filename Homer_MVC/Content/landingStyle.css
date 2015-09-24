@@ -1,4 +1,10 @@
-﻿.landing-page .container .row .col-lg-12 .center-title {
+﻿@media(min-width: 768px) {
+    nav .container {
+        width: 100%;
+    }
+}
+
+.landing-page .container .row .col-lg-12 .center-title {
     text-align:center;
 }
 

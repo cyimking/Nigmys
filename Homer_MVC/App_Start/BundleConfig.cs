@@ -21,10 +21,6 @@ namespace Homer_MVC
                       "~/Scripts/homer.js",
                       "~/Scripts/charts.js"));
 
-            //Landing-Page Custom
-            bundles.Add(new ScriptBundle("~/bundles/landing-page/css").Include(
-                "~/Content/landingStyle.css", new CssRewriteUrlTransform()));
-
             // Animate.css
             bundles.Add(new StyleBundle("~/bundles/animate/css").Include(
                       "~/Vendor/animate.css/animate.min.css"));
@@ -193,6 +189,9 @@ namespace Homer_MVC
                       "~/Vendor/jquery-validation/jquery.validate.min.js"));
 
 
+            //Landing-Page Custom
+            bundles.Add(new ScriptBundle("~/bundles/landing-page/css").Include(
+                "~/Content/landingStyle.css", new CssRewriteUrlTransform()));
         }
 
     }
